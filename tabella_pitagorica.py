@@ -3,7 +3,7 @@ r = 1
 while r <= 10:
     c = 1
     while c <= 10:
-        print(r * c, end = " ")
+        print(r * c, end = "\t")
         c += 1 
     print()
     r += 1
